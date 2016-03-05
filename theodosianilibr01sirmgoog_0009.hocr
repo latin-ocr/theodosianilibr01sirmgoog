@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theodosianilibr01sirmgoog_0009.png"; bbox 0 0 4800 6400; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 1065 1887 1313">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 448 982 1887 1313">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 1065 1887 1313; baseline 0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 448 1065 1887 1313; x_wconf 75' lang='lat' dir='ltr'><strong>THEODOSIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 969 1562 1377 1698">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 969 1562 1377 1698">
+     <span class='ocr_line' id='line_1_2' title="bbox 969 1562 1377 1698; baseline 0.007 -3"><span class='ocrx_word' id='word_1_2' title='bbox 969 1562 1188 1696; x_wconf 85' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1233 1562 1377 1698; x_wconf 88' lang='lat' dir='ltr'>XVI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 433 2026 1908 2168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 433 2026 1908 2168">
+     <span class='ocr_line' id='line_1_3' title="bbox 433 2026 1908 2168; baseline 0.003 -4"><span class='ocrx_word' id='word_1_4' title='bbox 433 2029 590 2164; x_wconf 76' lang='lat' dir='ltr'>CVM</span> <span class='ocrx_word' id='word_1_5' title='bbox 627 2026 1333 2167; x_wconf 78' lang='lat' dir='ltr'>CONSTITVTIONIBVS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1369 2029 1908 2168; x_wconf 79' lang='lat' dir='ltr'>SIRMONDIANIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 719 3062 1620 3140">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 719 3062 1620 3140">
+     <span class='ocr_line' id='line_1_4' title="bbox 719 3062 1620 3140; baseline 0.004 -6"><span class='ocrx_word' id='word_1_7' title='bbox 719 3068 970 3135; x_wconf 81' lang='lat' dir='ltr'>ADSVMPTO</span> <span class='ocrx_word' id='word_1_8' title='bbox 994 3068 1241 3135; x_wconf 80' lang='lat' dir='ltr'><strong>APPARATV</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1272 3062 1315 3138; x_wconf 90' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1339 3062 1620 3140; x_wconf 82' lang='lat' dir='ltr'>KRVEGERI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 913 3515 1438 3611">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 913 3515 1438 3611">
+     <span class='ocr_line' id='line_1_5' title="bbox 913 3515 1438 3611; baseline 0.002 -3"><span class='ocrx_word' id='word_1_11' title='bbox 913 3517 1024 3609; x_wconf 88' lang='lat' dir='ltr'>TH.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1058 3515 1438 3611; x_wconf 82' lang='lat' dir='ltr'><strong>MOMMSEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2404 6400">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2404 6400">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2404 6400; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2404 6400; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
